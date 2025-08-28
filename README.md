@@ -226,3 +226,10 @@ Select
 from new_table
 group by 1
 ```
+
+## Analysis Summary & Conclusion
+
+- Content Distribution - The dataset shows a wide variety of movies and TV shows, spanning multiple ratings and genres.
+- Common Ratings - Analyzing ratings reveals the most frequent classifications, helping to understand Netflix’s target audience.
+- Geographical Insights - The top contributing countries, especially the significant share from India, highlight regional differences in content production and availability.
+- Content Categorization - Grouping titles by specific keywords (e.g., Documentary, Stand-Up, International) provides clarity on the type of content offered.
