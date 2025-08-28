@@ -21,7 +21,7 @@ The data for this project is sourced from the Kaggle Netflix Movies and TV Shows
 
 ## Schema
 
-''' sql
+```sql
 drop table if exists Netflix;
 Create table Netflix
 (
@@ -39,6 +39,6 @@ Create table Netflix
 	description VARCHAR(300)
 );
 
-'''
+
 
   
