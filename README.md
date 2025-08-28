@@ -2,3 +2,12 @@
 
 
 ![Netflix logo](https://github.com/ChitraSatyaLahariPatnala/Netflix_Analysis_SQL_Project/blob/main/logo.png)
+
+## Overview
+
+This project presents a comprehensive analysis of Netflix’s movies and TV shows dataset using SQL. The objective is to extract meaningful insights and address key business questions related to content trends, genres, ratings, and availability. The README provides a structured overview of the project, including:
+1.Objectives of the analysis
+2.Business questions explored
+3.SQL-based solutions to those questions
+4.Key findings derived from the queries
+5.Conclusions highlighting major insights
